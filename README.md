@@ -17,7 +17,7 @@ It consolidates scattered biological and genomic information into a single, user
 * **Curation:** Information is manually curated from published literature, ensuring high-quality evidence for each entry.
 
 ## Zenodo
-This tool can be found at Zenodo at 
+This tool can be found at Zenodo at https://doi.org/10.5281/zenodo.20068085
 
 ---
 
